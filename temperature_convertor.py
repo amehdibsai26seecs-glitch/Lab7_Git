@@ -12,3 +12,6 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print("Fahrenheit:", fahrenheit)
+
+#Author
+Ali Mehdi
